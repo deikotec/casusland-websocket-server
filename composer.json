@@ -1,0 +1,9 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "paragonie/constant_time_encoding": "^2.6",
+        "textalk/websocket": "^1.5",
+        "nette/robot-loader": "^4.0",
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
